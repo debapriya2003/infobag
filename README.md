@@ -18,16 +18,6 @@ Built using **Flutter**, **Wikipedia API**, and **HTML rendering** for rich arti
 
 ---
 
-## 📸 Screenshots
-
-> _Replace the placeholders with actual screenshots after running the app._
-
-| Search Page | Search Results | Article Page |
-|-------------|---------------|--------------|
-| ![Search Page](screenshots/search.png) | ![Results](screenshots/results.png) | ![Article](screenshots/article.png) |
-
----
-
 ## 🛠️ Tech Stack
 
 | Tech | Usage |
