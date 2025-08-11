@@ -1,16 +1,39 @@
-# infobag
+# 📚 InfoBag – Wikipedia Search App
 
-A new Flutter project.
+A sleek **Flutter** app to search and read **full Wikipedia articles** with a clean **2D white-and-black bordered UI** 🖤.  
+Built using **Flutter**, **Wikipedia API**, and **HTML rendering** for rich article content.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+| Feature | Description |
+|---------|-------------|
+| 🔍 **Search Wikipedia** | Search for any topic using the official Wikipedia API |
+| 📰 **Full Article View** | Read complete, richly formatted articles with images |
+| 🎨 **Custom UI** | Minimal **2D white with black border** (6px, 30% rounded) |
+| 🖋 **Times New Roman Font** | Classic and elegant typography for all pages |
+| 🖼 **Image Support** | Displays images inline with the article content |
+| 📱 **Cross-Platform** | Works on Android, iOS, Web, and Desktop |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+| Tech | Usage |
+|------|-------|
+| **Flutter** 🐦 | UI framework |
+| **Wikipedia API** 🌐 | Fetches search results & articles |
+| **http** 📡 | API requests |
+| **html** 📝 | HTML parsing for rich content |
+| **flutter_html** 🖼 | Rendering HTML with images |
+
+---
+
+## 📦 Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/infobag.git
+   cd infobag
+
